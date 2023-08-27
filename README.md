@@ -77,4 +77,13 @@ I am a QA Engineer. Here I would like to share some portfolio items in API testi
 </ul>
 </p>
 
+### 💻 Completed courses:
 
+| Courses                                                           | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| Functional software testing                                     | 06/2023 - 09/2023 |
+| <p>
+  <ul>
+  <li>  <a href="https://www.artsiomrusau.com/qa-from-scratch">Link to the course</a>  </li>
+  </ul> 
+</p>
