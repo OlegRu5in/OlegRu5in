@@ -1,5 +1,4 @@
 # Hello, my name is Oleg! 👋
-
 ---
 ## 👨‍💻 About me:
 
@@ -9,6 +8,7 @@ I am a QA Engineer. Here I would like to share some portfolio items in API testi
 <li> 😌 I know how to work in a team, I learn quickly, I have an analytical mindset. </li>
 
 - 📫 My contacts: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rusinoa@gmail.com)
+-<li> <a href="https://github.com/OlegRu5in/OlegRu5in/blob/main/resume.pdf">My SV</a> </li>
 
 ---
 
